@@ -3,6 +3,9 @@
 # Inheritance is demonstrated by medical info and contact emergency inheriting from person
 # polymorphism is demonstrated by the ask question method
 
+
+# Same code different branch
+
 class Person(object):
     def __init__(self, first_name, last_name, gender, age):
         self.first_name = first_name
